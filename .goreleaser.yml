@@ -11,5 +11,6 @@ brew:
   github:
     owner: Ilyes512
     name: homebrew-goreleaserpoc
-  homepage: homebrew-goreleaserpoc
+  folder: Formula
+  homepage: https://github.com/Ilyes512/goreleaserpoc
   description: "A simple Go app to test out GoReleaser (POC)"
